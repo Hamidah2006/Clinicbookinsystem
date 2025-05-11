@@ -63,5 +63,7 @@ A MySQL-based database system that manages doctor-patient interactions, appointm
 
 ## Entity-Relationship Diagram
 
+link to the diagram [https://dbdiagram.io/d/6820da735b2fc4582f1ba8e3]
+
 ## Author
 Olaniyi Hamidah Olaitan
